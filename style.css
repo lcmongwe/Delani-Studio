@@ -14,3 +14,28 @@
     margin-top: 300px;
     margin-left: 900px;
 }
+
+
+.welcome{
+    margin-top: 60px;
+    margin-left: 900px;
+    font-size: 40px;
+    
+    
+}
+.people{
+    margin-top: 60px;
+    margin-left: 840px;
+    font-size: 40px;
+}
+
+.fun{
+    margin-top: 60px;
+    margin-left: 700px;
+    font-size: 18px;
+}
+
+.click {
+  margin-left: 930px;
+  margin-bottom: 0px;
+}
