@@ -47,3 +47,16 @@
     margin-bottom: 40px;
     line-height: 40px;
 }
+
+.services{
+    background-image: url(/images/backgrounds/background3.jpg);
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    line-height: 80px;
+    font-size: larger;
+    color: white;
+    
+}
