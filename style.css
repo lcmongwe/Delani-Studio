@@ -105,3 +105,9 @@
 .images img {
   border-radius: 5px;
 }
+
+.myform {
+  background-image: url(/images/backgrounds/background1.jpg);
+  height: 500px;
+  width: 100%;
+}
