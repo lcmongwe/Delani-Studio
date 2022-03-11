@@ -146,3 +146,21 @@
   background: transparent;
   color: white;
 }
+
+.social {
+  text-align: center;
+  /* height: auto;
+  width: 100%; */
+  padding: 50px 500px;
+}
+
+.icons {
+  width: auto;
+  float: left;
+  padding: 0px 20px;
+  box-sizing: border-box;
+}
+
+.icons img {
+  width: 100%;
+}
