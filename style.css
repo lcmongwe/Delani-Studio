@@ -20,8 +20,8 @@
 }
 
 .welcome {
-  margin-top: 80px;
-  line-height: 10px;
+  margin-top: 60px;
+  line-height: 2px;
   font-size: 40px;
 }
 .people {
@@ -31,7 +31,7 @@
 }
 
 .fun {
-  margin-top: 30px;
+  margin-top: 20px;
   font-size: 18px;
 }
 
@@ -184,4 +184,8 @@
   height: 40px;
   width: 100px;
   border-radius: 5px;
+}
+
+.show {
+  display: none;
 }
