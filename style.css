@@ -122,3 +122,27 @@
   color: white;
   margin-bottom: 20px;
 }
+
+.form p {
+  text-align: center;
+}
+
+.details {
+  margin-left: 15%;
+  padding: 10;
+}
+
+.input {
+  width: 300px;
+  height: 50px;
+  background: transparent;
+  color: white;
+}
+
+.area {
+  width: 700px;
+  height: 200px;
+  margin-left: 10%;
+  background: transparent;
+  color: white;
+}
