@@ -57,3 +57,24 @@
   font-size: larger;
   color: white;
 }
+
+.photo {
+  width: 100%;
+  height: auto;
+}
+
+.photo h1 {
+  text-align: center;
+}
+
+.design {
+  width: 20.33%;
+  float: left;
+  padding: 0px 20px;
+  box-sizing: border-box;
+  margin-left: 12%;
+}
+
+.design img {
+  width: auto;
+}
