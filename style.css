@@ -20,8 +20,8 @@
 }
 
 .welcome {
-  margin-top: 60px;
-  line-height: 2px;
+  margin-top: 80px;
+  line-height: 10px;
   font-size: 40px;
 }
 .people {
@@ -174,4 +174,14 @@
 
 .footer p {
   text-align: center;
+}
+
+.button {
+  text-align: center;
+}
+
+.button button {
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
 }
