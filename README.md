@@ -20,3 +20,11 @@ Author: Lucy Mongwe
 - git clone https://github.com/lcmongwe/Delani-Studio.git
 - cd akhan-names
 - code . or atom . depending on your text editor
+
+### :computer: TECHNOLOGIES USED
+
+- HTML5
+- CSS
+- JavaScript
+- MARKDOWN
+- JQUERY
