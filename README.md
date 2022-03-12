@@ -13,3 +13,10 @@ This is a simple program with a dynamic HTML,CSS,JAVASCRIPT JQUERY to make it mo
 ### AUTHORS INFORMATION
 
 Author: Lucy Mongwe
+
+### :pushpin:PROJECT SETUP INSTRUCTIONS
+
+- Open terminal {Ctrl +Alt + T}
+- git clone https://github.com/lcmongwe/Delani-Studio.git
+- cd akhan-names
+- code . or atom . depending on your text editor
