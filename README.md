@@ -4,4 +4,4 @@ Delani Studio.
 
 ## SCREENSHOT
 
-![AKHAN PAGE](image/akhanpage.png)
+![DELANI STUDIO](images/delani.png)
