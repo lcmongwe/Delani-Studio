@@ -3,7 +3,10 @@ function formReset() {
 }
 
 function onClick() {
-  alert("thanks for your feedback your message was recived");
+  var name = document.getElementById("name").value;
+  const output = document.getElementById("message");
+  output.innerHTML =
+    "Hey! " + name + " " + "thanks for your feedback your message was recieved";
 
   formReset();
 }
