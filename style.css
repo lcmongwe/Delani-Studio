@@ -186,14 +186,6 @@
   border-radius: 5px;
 }
 
-.show {
-  display: none;
-}
-/* 
-.overlay {
-  position: absolute;
-} */
-
 .images {
   position: relative;
 }
@@ -232,4 +224,16 @@
   font-size: 16px;
   padding: 16px 32px;
   text-transform: uppercase;
+}
+
+.show {
+  display: none;
+}
+
+.development {
+  display: none;
+}
+
+.product {
+  display: none;
 }

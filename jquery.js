@@ -1,33 +1,66 @@
+// $(document).ready(function () {
+//   $("#dess").mouseover(function () {
+//     $(".show").show();
+//     $("#des").hide();
+//   });
+//   $("#dess").mouseout(function () {
+//     $(".show").hide();
+//     $("#des").show();
+//   });
+// });
+
+// $(document).ready(function () {
+//   $("#devv").mouseover(function () {
+//     $(".show").show();
+//     $("#dev").hide();
+//   });
+//   $("#devv").mouseout(function () {
+//     $(".show").hide();
+//     $("#dev").show();
+//   });
+// });
+
+// $(document).ready(function () {
+//   $("#prodd").mouseover(function () {
+//     $(".show").show();
+//     $("#prod").hide();
+//   });
+//   $("#prodd").mouseout(function () {
+//     $(".show").hide();
+//     $("prod").show();
+//   });
+// });
+
 $(document).ready(function () {
-  $("#dess").mouseover(function () {
-    $(".show").show();
+  $("#des").click(function () {
     $("#des").hide();
+    $(".show").show();
   });
-  $("#dess").mouseout(function () {
-    $(".show").hide();
+  $(".show").click(function () {
     $("#des").show();
+    $(".show").hide();
   });
 });
 
 $(document).ready(function () {
-  $("#devv").mouseover(function () {
-    $(".show").show();
+  $("#dev").click(function () {
     $("#dev").hide();
+    $(".development").show();
   });
-  $("#devv").mouseout(function () {
-    $(".show").hide();
+  $(".development").click(function () {
     $("#dev").show();
+    $(".development").hide();
   });
 });
 
 $(document).ready(function () {
-  $("#prodd").mouseover(function () {
-    $(".show").show();
+  $("#prod").click(function () {
     $("#prod").hide();
+    $(".product").show();
   });
-  $("#prodd").mouseout(function () {
-    $(".show").hide();
-    $("prod").show();
+  $(".product").click(function () {
+    $("#prod").show();
+    $(".product").hide();
   });
 });
 
