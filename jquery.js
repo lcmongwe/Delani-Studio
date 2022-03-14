@@ -1,9 +1,11 @@
 $(document).ready(function () {
   $(".design").mouseover(function () {
     $(this).children(".show").show();
+    $(".png").hide();
   });
   $(".design").mouseout(function () {
     $(this).children(".show").hide();
+    $(".png").show();
   });
 });
 
