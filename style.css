@@ -189,3 +189,7 @@
 .show {
   display: none;
 }
+
+.overlay {
+  position: absolute;
+}
