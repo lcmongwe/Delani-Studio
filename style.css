@@ -227,8 +227,9 @@
 }
 
 .text {
-  background-color: green;
-  color: #fff;
+  background: transparent;
+  color: black;
   font-size: 16px;
   padding: 16px 32px;
+  text-transform: uppercase;
 }
