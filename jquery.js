@@ -1,6 +1,9 @@
 $(document).ready(function () {
-  $(".design").hover(function () {
-    $(".show").show();
+  $(".design").mouseover(function () {
+    $(this).children(".show").show();
+  });
+  $(".design").mouseout(function () {
+    $(this).children(".show").hide();
   });
 });
 
