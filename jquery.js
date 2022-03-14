@@ -1,11 +1,33 @@
 $(document).ready(function () {
-  $(".design").mouseover(function () {
-    $(this).children(".show").show();
-    $(".png").hide();
+  $("#dess").mouseover(function () {
+    $(".show").show();
+    $("#des").hide();
   });
-  $(".design").mouseout(function () {
-    $(this).children(".show").hide();
-    $(".png").show();
+  $("#dess").mouseout(function () {
+    $(".show").hide();
+    $("#des").show();
+  });
+});
+
+$(document).ready(function () {
+  $("#devv").mouseover(function () {
+    $(".show").show();
+    $("#dev").hide();
+  });
+  $("#devv").mouseout(function () {
+    $(".show").hide();
+    $("#dev").show();
+  });
+});
+
+$(document).ready(function () {
+  $("#prodd").mouseover(function () {
+    $(".show").show();
+    $("#prod").hide();
+  });
+  $("#prodd").mouseout(function () {
+    $(".show").hide();
+    $("prod").show();
   });
 });
 
