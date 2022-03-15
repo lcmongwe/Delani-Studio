@@ -226,6 +226,9 @@
   text-transform: uppercase;
 }
 
+.show {
+  display: none;
+}
 .development {
   display: none;
 }
