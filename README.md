@@ -18,7 +18,7 @@ Author: Lucy Mongwe
 
 - Open terminal {Ctrl +Alt + T}
 - git clone https://github.com/lcmongwe/Delani-Studio.git
-- cd akhan-names
+- cd Delani-studio
 - code . or atom . depending on your text editor
 
 ### :computer: TECHNOLOGIES USED
