@@ -226,11 +226,6 @@
   text-transform: uppercase;
 }
 
-.design p {
-  display: none;
-  text-align: center;
-}
-
 .development {
   display: none;
 }
